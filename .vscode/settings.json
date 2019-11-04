@@ -1,0 +1,16 @@
+{
+    "team.showWelcomeMessage": false,
+    "editor.formatOnSave": true,
+    "python.linting.pycodestyleEnabled": true,
+    "python.linting.pylintPath": "pylint",
+    "python.linting.pylintArgs": [
+        "--load-plugins",
+        "pylint_django"
+    ],
+    "python.linting.pycodestyleArgs": [
+        "--ignore=E501"
+    ],
+    "venvpath": "${workspacefolder}/backend/myenv/bin/python3",
+    "python.linting.pylintEnabled": true,
+    "python.pythonPath": "/home/springpc-1/anaconda3/bin/python"
+}
